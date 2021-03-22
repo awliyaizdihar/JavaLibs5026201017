@@ -139,11 +139,6 @@ public class JavaLibs5026201017 {
 
 	
 	
-	/*JOptionPane.showMessageDialog(null,
-		"Halo "+nameSoul+" dengan "+kid+" anak"
-		+"\nCocok dengan "+nameMate+" sebesar "+match+"%",
-		"TesSib: \"Building your imaginary marriage\"",
-		1);*/
 
    }
 }
